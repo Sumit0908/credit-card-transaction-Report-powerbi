@@ -9,12 +9,6 @@ This Power BI dashboard provides insights into credit card transactions based on
 - 🧒 Age Group Analysis
 - 💰 Revenue & Total Transaction Amounts
 
-## 📊 Dashboard Preview
-
-![Dashboard Preview](Images/dashboard-preview.png)
-
----
-
 ## 📁 Folder Structure
 
 - `PowerBI_Report/`: Contains the `.pbix` Power BI file.
